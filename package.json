@@ -1,0 +1,21 @@
+{
+  "name": "console-todolist-app",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "bin": {
+    "console-todolist-app": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2",
+    "inquirer": "^9.2.17"
+  },
+  "type": "module"
+}
